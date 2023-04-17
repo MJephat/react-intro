@@ -1,6 +1,23 @@
 .App {
   text-align: center;
 }
+h6{
+  color: black;
+  text-transform: uppercase;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p{
+  font-size: 20px;
+  text-orientation:upright;
+  padding-left: 600px;
+  padding-right: 600px;
+}
+
+button{
+  background-color: rgb(11, 231, 158);
+  height: 30px;
+}
 
 .App-logo {
   height: 40vmin;
